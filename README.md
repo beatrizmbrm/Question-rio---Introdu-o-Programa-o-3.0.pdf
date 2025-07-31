@@ -10,6 +10,8 @@ Este repositório contém o questionário utilizado como atividade avaliativa so
 
 ##  Acesso ao Arquivo
 
-Você pode visualizar ou baixar o questionário [clicando aqui](https://github.com/beatrizmbrm/Question-rio---Introdu-o-Programa-o-3.0.pdf/blob/main/Question%C3%A1rio%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%203.0.pdf.pdf).
+Para visualizar o questionário, é necessário baixar o repositório. Clique em **"Download Repository(Baixar Repositório)"** para baixar todos os arquivos.
+
+Após o download, localize o arquivo **`Questionário - Introdução à Programação 3.0.pdf.pdf`** na pasta do seu computador.
 
 
